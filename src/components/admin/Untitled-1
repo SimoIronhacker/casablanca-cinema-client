@@ -1,0 +1,49 @@
+
+un blog c'est
+
+des users
+des articles
+des catégories
+maybe : des commentaires
+
+user => créé => article
+article => correspond à catégorie
+maybe : user poste commentaires
+
+première étape pour créer tes models
+
+
+qu'est ce qu'un user ?
+qu'est ce qu'un article ?
+qu'est ce qu'une catégories ?
+qu'est ce qu'un comment ?
+quelles sont les clés / quels sont les types ?
+
+
+
+li Saw
+li MIB
+li Kill bill
+
+
+Title : Saw : l'horreur au max
+text: ce super film est bla bla bla bla au top
+image:  http://lien-vers-image.jpeg 
+
+
+// shéma v1 validé 
+// créer le modèle
+// exporter le modèle
+
+// ensuite =>
+
+// dans les routes créer router article
+// créer un article (post)
+// lire tous les articles (get)
+// lire un article GET
+// supprimer un article (delete)
+// mettre à jour un article (update)
+
+// ensuite =>
+
+// tester les routes avec Postman
